@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\bin\Debug\net10.0\TugasPBOPraktikum.exe
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\bin\Debug\net10.0\TugasPBOPraktikum.deps.json
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\bin\Debug\net10.0\TugasPBOPraktikum.runtimeconfig.json
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\bin\Debug\net10.0\TugasPBOPraktikum.dll
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\bin\Debug\net10.0\TugasPBOPraktikum.pdb
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\TugasPBOPraktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\TugasPBOPraktikum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\TugasPBOPraktikum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\TugasPBOPraktikum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\TugasPBOPraktikum.dll
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\refint\TugasPBOPraktikum.dll
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\TugasPBOPraktikum.pdb
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\TugasPBOPraktikum.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TugasPBOPraktikum\TugasPBOPraktikum\obj\Debug\net10.0\ref\TugasPBOPraktikum.dll
